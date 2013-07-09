@@ -18,10 +18,10 @@ Credits
 All credits for research that made this tool possible go to
 the oringinal iOS artwork extractor tool from Dave Peck.
 
-Twitter: @DangerDave
-Website: davepeck.org
+Twitter: @DangerDave  
+Website: davepeck.org  
 
-Oringinal tool: http://github.com/davepeck/iOS-artwork/
+Oringinal tool: http://github.com/davepeck/iOS-artwork/  
 
 To support Dave and keep yourself safe on public wifi on your apple devices
 go to www.getcloak.com.  Cloak is the best way to encrypt your network traffic
