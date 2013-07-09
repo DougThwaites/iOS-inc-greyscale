@@ -59,25 +59,25 @@ my free time I will get back to you as soon as i can.
 
 Thanks to:
 --------
-Dave Peck
-@DangerDave
-Initial Research
-Made an awesome tool to base this off
-Dev @ getcloak.com
+Dave Peck  
+@DangerDave  
+Initial Research  
+Made an awesome tool to base this off  
+Dev @ getcloak.com  
 
-Matt Smith
-@Jato_BZ
-Initial tester
-Theme Designer
-iOS advice
+Matt Smith  
+@Jato_BZ  
+Initial tester  
+Theme Designer  
+iOS advice  
 
-Brian aka King
-@brianmacl
-Initial tester
+Brian aka King  
+@brianmacl  
+Initial tester  
 
-Alex aka Alfroggy
-@chezfroggy
-Initial tester
+Alex aka Alfroggy  
+@chezfroggy  
+Initial tester  
 
 
 Enjoy!
