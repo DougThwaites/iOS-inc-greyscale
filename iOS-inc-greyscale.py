@@ -73,7 +73,6 @@ import PIL
 import struct
 import time
 from PIL import Image
-from optparse import OptionParser
 
 def tuple_grouper(n, iterable):
     args = [iter(iterable)] * n
