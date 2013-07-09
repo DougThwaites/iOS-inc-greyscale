@@ -269,7 +269,7 @@ def main():
 					write_bytes("B", a, new_file)
 
 			#About time to give the user some feedback
-			print "Adding " + str(icount) + "/" + str(total_img_count) + ", name: " + image_names[icount]
+			print "Adding " + str(icount+1) + "/" + str(total_img_count) + ", name: " + image_names[icount]
 
 		else:
 			bail("Image " + iname + " not found :( Had to exit, soz")
