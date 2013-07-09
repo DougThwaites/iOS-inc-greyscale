@@ -57,6 +57,14 @@
 # Initial tester
 # Theme Designer
 # iOS advice
+# 
+# Brian aka King
+# @brianmacl
+# Initial tester
+# 
+# Alex aka Alfroggy
+# @chezfroggy
+# Initial tester
 #-------------------------------------------------------------------------------
 
 import os
